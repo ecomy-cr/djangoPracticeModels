@@ -1,0 +1,8 @@
+Fullstack - Restaurantes
+
+DjangoPuro:
+    HTML,CSS,Bootstrap,python,sqlite3db,django
+
+        Menu: Id, Nombre, precio, foto, detalle
+        ventas: Fecha, plato, cantidad, monto
+        
